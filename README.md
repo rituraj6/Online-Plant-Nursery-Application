@@ -2,8 +2,7 @@
 Online Plant Nursery Application Spring Boot Project
 Backend of online Management where customer can buy planters, plants and seeds.
 After running this program in spring boot we have to hit this url to see all the API's in swagger http://localhost:8888/swagger-ui/
-
-ONLINE NURSERY PLANT and SEED MANAGMENT | Online plant and seed management where you can customer can buy and planter can sell their plants and seeds. Service Layers, Data Access Layers to generate different end points. Features:
+customer can buy and planter can sell their plants and seeds. Service Layers, Data Access Layers to generate different end points. Features:
 
 # Services Offered
 - User Login and Signup.
